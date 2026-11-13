@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.weights.h5
+*.keras
+*.h5
+*.npy
+*.npz
+DATASET/
+data/
+epoch_backup/

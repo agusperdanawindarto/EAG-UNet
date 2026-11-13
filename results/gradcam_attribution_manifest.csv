@@ -1,0 +1,6 @@
+model,seed,feature_layer,gradient_target
+U_Net,42,dec3_conv_conv2,Mean vessel probability inside predicted foreground
+ResUNet,42,dec3_conv_conv2,Mean vessel probability inside predicted foreground
+Attention_UNet,42,dec3_conv_conv2,Mean vessel probability inside predicted foreground
+EAG_UNet,42,dec3_conv_conv2,Mean vessel probability inside predicted foreground
+MS_SE_Attention_UNet,42,dec3_conv_conv2,Mean vessel probability inside predicted foreground
